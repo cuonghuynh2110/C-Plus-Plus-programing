@@ -1,0 +1,9 @@
+Nguyen Quoc Binh;19;10
+Huynh Cuong;19;10
+Doremon;30;5
+Saori Hara;20;8.5
+Obama;59;9.5
+Hong Pinky;19;100
+Duong Qua;45;6
+Suneo;8;7
+Anh Vu;29;9.5
